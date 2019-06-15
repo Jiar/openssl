@@ -1,0 +1,16 @@
+PODS:
+  - openssl (1.0.2r)
+
+DEPENDENCIES:
+  - openssl (from `./`)
+
+EXTERNAL SOURCES:
+  openssl:
+    :path: "./"
+
+SPEC CHECKSUMS:
+  openssl: 8f9ab4c89955b23a394947c4f5632a0525b1ea0e
+
+PODFILE CHECKSUM: 053a92c9132213e74e2bc1df7563fb180aa17ed9
+
+COCOAPODS: 1.6.1
